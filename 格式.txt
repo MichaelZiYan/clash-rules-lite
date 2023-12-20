@@ -1,0 +1,37 @@
+  - name: 🎯 Bilibili
+    type: select
+    proxies:
+      - DIRECT
+      - 🇭🇰香港01⚡️[1.0x]-IEPL
+rules:
+  - RULE-SET,Backlist,🛑 全球拦截
+  - RULE-SET,Proxy,🔰 节点选择
+  - RULE-SET,Microsoft,Ⓜ️ 微软服务
+  - RULE-SET,bilibili,🎯 Bilibili
+  - GEOIP,CN,🎯 全球直连
+  - MATCH,🐟 漏网之鱼
+rule-providers:
+  Proxy:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/proxy-rules.txt
+    path: ./providers/rule-proxy.yaml
+    interval: 86400
+  Microsoft:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/microsoft-rules.txt
+    path: ./providers/rule-microsoft.yaml
+    interval: 86400
+  Backlist:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/blacklist-rules.txt
+    path: ./providers/rule-backlist.yaml
+    interval: 86400
+  bilibili:
+    type: http
+    behavior: classical
+    url: https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/blacklist-rules.txt
+    path: ./providers/rule-backlist.yaml
+    interval: 86400
