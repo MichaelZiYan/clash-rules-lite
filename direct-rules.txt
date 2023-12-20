@@ -3,5 +3,6 @@ payload:
   - DOMAIN-KEYWORD,xbox  
   - DOMAIN-KEYWORD,microsoft
   - DOMAIN-KEYWORD,njupt
+  - DOMAIN-KEYWORD,njupt.edu.cn
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
