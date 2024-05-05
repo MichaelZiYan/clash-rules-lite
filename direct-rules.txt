@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,fscloud.cc
+  - DOMAIN-SUFFIX,tsinghua.edu.cn
