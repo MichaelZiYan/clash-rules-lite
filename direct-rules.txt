@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,.cn
+  - DOMAIN-KEYWORD,xbox  
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,njupt
+  - DOMAIN-KEYWORD,njupt.edu.cn
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,fscloud.cc
+  - DOMAIN-SUFFIX,tsinghua.edu.cn
