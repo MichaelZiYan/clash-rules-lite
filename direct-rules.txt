@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,gamepass.com
   - DOMAIN-SUFFIX,fscloud.cc
   - DOMAIN-SUFFIX,tsinghua.edu.cn
+  - DOMAIN-SUFFIX,baidu.com
