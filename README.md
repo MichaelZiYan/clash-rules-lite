@@ -14,6 +14,7 @@
     <a href="https://github.com/MichaelZiYan/clash-rules-lite/blob/main/proxy-rules.txt">代理规则列表</a> |
     <a href="https://github.com/MichaelZiYan/clash-rules-lite/blob/main/microsoft-rules.txt">微软服务规则列表</a> |
     <a href="https://github.com/MichaelZiYan/clash-rules-lite/blob/main/blacklist-rules.txt">黑名单规则列表</a>
+    <a href="https://github.com/MichaelZiYan/clash-rules-lite/blob/main/direct-rules.txt">直连规则列表</a>
   </p>
 
 </p>
@@ -22,7 +23,9 @@
   <pre align="center">
   https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/proxy-rules.txt    
   https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/microsoft-rules.txt
-  https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/blacklist-rules.txt</pre>
+  https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/blacklist-rules.txt
+  https://cdn.jsdelivr.net/gh/MichaelZiYan/clash-rules-lite@release/direct-rules.txt
+  </pre>
 </p>
 
 
