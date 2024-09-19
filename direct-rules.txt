@@ -9,3 +9,13 @@ payload:
   - DOMAIN-SUFFIX,fscloud.cc
   - DOMAIN-SUFFIX,tsinghua.edu.cn
   - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,xbox-live.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
+  - GEOSITE,steam,CN,DIRECT
