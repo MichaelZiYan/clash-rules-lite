@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,fscloud.cc
   - DOMAIN-SUFFIX,tsinghua.edu.cn
   - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,ipw.cn
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,tnt-ea.com
   - DOMAIN-SUFFIX,xbox-live.com
