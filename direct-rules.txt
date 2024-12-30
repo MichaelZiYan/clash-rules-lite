@@ -1,0 +1,27 @@
+payload:
+  - DOMAIN-SUFFIX,.cn
+  - DOMAIN-KEYWORD,xbox  
+  - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-KEYWORD,njupt
+  - DOMAIN-KEYWORD,njupt.edu.cn
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,alicdn.com
+  - DOMAIN-SUFFIX,fscloud.cc
+  - DOMAIN-SUFFIX,tsinghua.edu.cn
+  - DOMAIN-SUFFIX,baidu.com
+  - DOMAIN-SUFFIX,ipw.cn
+  - DOMAIN-SUFFIX,ea.com
+  - DOMAIN-SUFFIX,tnt-ea.com
+  - DOMAIN-SUFFIX,xbox-live.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,kaspersky-labs.com
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
+  - DOMAIN-SUFFIX,epicgamescdn.com,DIRECT
+  - DOMAIN-SUFFIX,epicgames.com,DIRECT
+  - DOMAIN-SUFFIX,epicgames.dev,DIRECT
+  - GEOSITE,steam,CN,DIRECT
