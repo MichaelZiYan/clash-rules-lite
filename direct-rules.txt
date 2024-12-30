@@ -6,6 +6,8 @@ payload:
   - DOMAIN-KEYWORD,njupt.edu.cn
   - DOMAIN-SUFFIX,xboxlive.com
   - DOMAIN-SUFFIX,gamepass.com
+  - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,fscloud.cc
   - DOMAIN-SUFFIX,tsinghua.edu.cn
   - DOMAIN-SUFFIX,baidu.com
