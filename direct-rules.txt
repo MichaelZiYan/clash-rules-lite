@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,tsinghua.edu.cn
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,ipw.cn
+  - DOMAIN-SUFFIX,ziyan.tech
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,tnt-ea.com
   - DOMAIN-SUFFIX,xbox-live.com
