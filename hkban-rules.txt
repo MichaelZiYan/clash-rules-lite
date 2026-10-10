@@ -1,0 +1,13 @@
+payload:
+  # OpenAI & ChatGPT
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN,chat.openai.com
+
+  # 其它常见限制香港 IP 的 AI / 服务
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,makersuite.google.com
